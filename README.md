@@ -23,10 +23,11 @@ Build a machine learning model based on EDA insights to predict survival.
 Evaluate model performance and tune for accuracy.
 
 ## 📁 Project Structure
-bash
 
 ├── Titanic-Survival-Prediction-ML-Insights.ipynb  # Main analysis notebook
+
 ├── README.md                                      # Project documentation
+
 └── data                                           # Dataset (place Titanic dataset here)
 
 ## 🔑 Key Insights
@@ -35,15 +36,14 @@ Passenger Class and Gender: Clear survival differences based on Pclass and Sex.
 Fare: Higher fare often correlated with higher survival chances, suggesting passengers in higher classes had better odds of survival.
 
 ## 🚀 Getting Started
-Clone the repository:
-bash
 
-git clone https://github.com/username/Titanic-Survival-Prediction-ML-Insights.git
+Clone the repository:
+
+git clone https://github.com/AreejPanhwer/Titanic-Survival-Prediction-ML-Insights
 
 ## Install required libraries:
 Run pip install -r requirements.txt if there’s a requirements file, or manually install common libraries:
 python
-
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## Run the Notebook:
